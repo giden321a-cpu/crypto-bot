@@ -1,0 +1,1 @@
+# Ushbu bot faqat Python standart kutubxonalarida ishlaydi (urllib, json, sqlite3, time)

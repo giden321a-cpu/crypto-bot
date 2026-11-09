@@ -1,0 +1,1676 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "exchange": "binance",
+    "query_symbol": "BTCUSDT",
+    "display_name": "BTCUSDT"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "exchange": "binance",
+    "query_symbol": "ETHUSDT",
+    "display_name": "ETHUSDT"
+  },
+  {
+    "symbol": "SOLUSDT",
+    "exchange": "binance",
+    "query_symbol": "SOLUSDT",
+    "display_name": "SOLUSDT"
+  },
+  {
+    "symbol": "XRPUSDT",
+    "exchange": "binance",
+    "query_symbol": "XRPUSDT",
+    "display_name": "XRPUSDT"
+  },
+  {
+    "symbol": "ZECUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZECUSDT",
+    "display_name": "ZECUSDT"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "exchange": "binance",
+    "query_symbol": "NEARUSDT",
+    "display_name": "NEARUSDT"
+  },
+  {
+    "symbol": "TRXUSDT",
+    "exchange": "binance",
+    "query_symbol": "TRXUSDT",
+    "display_name": "TRXUSDT"
+  },
+  {
+    "symbol": "LTCUSDT",
+    "exchange": "binance",
+    "query_symbol": "LTCUSDT",
+    "display_name": "LTCUSDT"
+  },
+  {
+    "symbol": "AVAXUSDT",
+    "exchange": "binance",
+    "query_symbol": "AVAXUSDT",
+    "display_name": "AVAXUSDT"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "exchange": "binance",
+    "query_symbol": "LINKUSDT",
+    "display_name": "LINKUSDT"
+  },
+  {
+    "symbol": "XLMUSDT",
+    "exchange": "binance",
+    "query_symbol": "XLMUSDT",
+    "display_name": "XLMUSDT"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "exchange": "binance",
+    "query_symbol": "ADAUSDT",
+    "display_name": "ADAUSDT"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "exchange": "binance",
+    "query_symbol": "DOTUSDT",
+    "display_name": "DOTUSDT"
+  },
+  {
+    "symbol": "WLDUSDT",
+    "exchange": "binance",
+    "query_symbol": "WLDUSDT",
+    "display_name": "WLDUSDT"
+  },
+  {
+    "symbol": "FILUSDT",
+    "exchange": "binance",
+    "query_symbol": "FILUSDT",
+    "display_name": "FILUSDT"
+  },
+  {
+    "symbol": "TAOUSDT",
+    "exchange": "binance",
+    "query_symbol": "TAOUSDT",
+    "display_name": "TAOUSDT"
+  },
+  {
+    "symbol": "ARBUSDT",
+    "exchange": "binance",
+    "query_symbol": "ARBUSDT",
+    "display_name": "ARBUSDT"
+  },
+  {
+    "symbol": "SEIUSDT",
+    "exchange": "binance",
+    "query_symbol": "SEIUSDT",
+    "display_name": "SEIUSDT"
+  },
+  {
+    "symbol": "ICPUSDT",
+    "exchange": "binance",
+    "query_symbol": "ICPUSDT",
+    "display_name": "ICPUSDT"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "exchange": "binance",
+    "query_symbol": "ETCUSDT",
+    "display_name": "ETCUSDT"
+  },
+  {
+    "symbol": "TIAUSDT",
+    "exchange": "binance",
+    "query_symbol": "TIAUSDT",
+    "display_name": "TIAUSDT"
+  },
+  {
+    "symbol": "ATOMUSDT",
+    "exchange": "binance",
+    "query_symbol": "ATOMUSDT",
+    "display_name": "ATOMUSDT"
+  },
+  {
+    "symbol": "FETUSDT",
+    "exchange": "binance",
+    "query_symbol": "FETUSDT",
+    "display_name": "FETUSDT"
+  },
+  {
+    "symbol": "QNTUSDT",
+    "exchange": "binance",
+    "query_symbol": "QNTUSDT",
+    "display_name": "QNTUSDT"
+  },
+  {
+    "symbol": "XMRUSDT",
+    "exchange": "mexc",
+    "query_symbol": "XMRUSDT",
+    "display_name": "XMRUSDT"
+  },
+  {
+    "symbol": "ALGOUSDT",
+    "exchange": "binance",
+    "query_symbol": "ALGOUSDT",
+    "display_name": "ALGOUSDT"
+  },
+  {
+    "symbol": "GALAUSDT",
+    "exchange": "binance",
+    "query_symbol": "GALAUSDT",
+    "display_name": "GALAUSDT"
+  },
+  {
+    "symbol": "ORDIUSDT",
+    "exchange": "binance",
+    "query_symbol": "ORDIUSDT",
+    "display_name": "ORDIUSDT"
+  },
+  {
+    "symbol": "ARUSDT",
+    "exchange": "binance",
+    "query_symbol": "ARUSDT",
+    "display_name": "ARUSDT"
+  },
+  {
+    "symbol": "KSMUSDT",
+    "exchange": "binance",
+    "query_symbol": "KSMUSDT",
+    "display_name": "KSMUSDT"
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "exchange": "binance",
+    "query_symbol": "EGLDUSDT",
+    "display_name": "EGLDUSDT"
+  },
+  {
+    "symbol": "VETUSDT",
+    "exchange": "binance",
+    "query_symbol": "VETUSDT",
+    "display_name": "VETUSDT"
+  },
+  {
+    "symbol": "DCRUSDT",
+    "exchange": "binance",
+    "query_symbol": "DCRUSDT",
+    "display_name": "DCRUSDT"
+  },
+  {
+    "symbol": "ZKUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZKUSDT",
+    "display_name": "ZKUSDT"
+  },
+  {
+    "symbol": "ZROUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZROUSDT",
+    "display_name": "ZROUSDT"
+  },
+  {
+    "symbol": "ZILUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZILUSDT",
+    "display_name": "ZILUSDT"
+  },
+  {
+    "symbol": "RLCUSDT",
+    "exchange": "binance",
+    "query_symbol": "RLCUSDT",
+    "display_name": "RLCUSDT"
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "exchange": "binance",
+    "query_symbol": "ROSEUSDT",
+    "display_name": "ROSEUSDT"
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "exchange": "binance",
+    "query_symbol": "POLYXUSDT",
+    "display_name": "POLYXUSDT"
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "exchange": "binance",
+    "query_symbol": "JASMYUSDT",
+    "display_name": "JASMYUSDT"
+  },
+  {
+    "symbol": "ENSUSDT",
+    "exchange": "binance",
+    "query_symbol": "ENSUSDT",
+    "display_name": "ENSUSDT"
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "exchange": "binance",
+    "query_symbol": "IOTAUSDT",
+    "display_name": "IOTAUSDT"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "exchange": "binance",
+    "query_symbol": "MANAUSDT",
+    "display_name": "MANAUSDT"
+  },
+  {
+    "symbol": "IMXUSDT",
+    "exchange": "binance",
+    "query_symbol": "IMXUSDT",
+    "display_name": "IMXUSDT"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "exchange": "binance",
+    "query_symbol": "GRTUSDT",
+    "display_name": "GRTUSDT"
+  },
+  {
+    "symbol": "STXUSDT",
+    "exchange": "binance",
+    "query_symbol": "STXUSDT",
+    "display_name": "STXUSDT"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "exchange": "binance",
+    "query_symbol": "AXLUSDT",
+    "display_name": "AXLUSDT"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "exchange": "binance",
+    "query_symbol": "SAGAUSDT",
+    "display_name": "SAGAUSDT"
+  },
+  {
+    "symbol": "PORTALUSDT",
+    "exchange": "binance",
+    "query_symbol": "PORTALUSDT",
+    "display_name": "PORTALUSDT"
+  },
+  {
+    "symbol": "KASUSDT",
+    "exchange": "gateio",
+    "query_symbol": "KAS_USDT",
+    "display_name": "KASUSDT"
+  },
+  {
+    "symbol": "DUSKUSDT",
+    "exchange": "binance",
+    "query_symbol": "DUSKUSDT",
+    "display_name": "DUSKUSDT"
+  },
+  {
+    "symbol": "ZENUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZENUSDT",
+    "display_name": "ZENUSDT"
+  },
+  {
+    "symbol": "TWTUSDT",
+    "exchange": "binance",
+    "query_symbol": "TWTUSDT",
+    "display_name": "TWTUSDT"
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "exchange": "binance",
+    "query_symbol": "PYTHUSDT",
+    "display_name": "PYTHUSDT"
+  },
+  {
+    "symbol": "BATUSDT",
+    "exchange": "binance",
+    "query_symbol": "BATUSDT",
+    "display_name": "BATUSDT"
+  },
+  {
+    "symbol": "XTZUSDT",
+    "exchange": "binance",
+    "query_symbol": "XTZUSDT",
+    "display_name": "XTZUSDT"
+  },
+  {
+    "symbol": "CFXUSDT",
+    "exchange": "binance",
+    "query_symbol": "CFXUSDT",
+    "display_name": "CFXUSDT"
+  },
+  {
+    "symbol": "BSVUSDT",
+    "exchange": "gateio",
+    "query_symbol": "BSV_USDT",
+    "display_name": "BSVUSDT"
+  },
+  {
+    "symbol": "DASHUSDT",
+    "exchange": "binance",
+    "query_symbol": "DASHUSDT",
+    "display_name": "DASHUSDT"
+  },
+  {
+    "symbol": "VIRTUALUSDT",
+    "exchange": "binance",
+    "query_symbol": "VIRTUALUSDT",
+    "display_name": "VIRTUALUSDT"
+  },
+  {
+    "symbol": "CKBUSDT",
+    "exchange": "binance",
+    "query_symbol": "CKBUSDT",
+    "display_name": "CKBUSDT"
+  },
+  {
+    "symbol": "LPTUSDT",
+    "exchange": "binance",
+    "query_symbol": "LPTUSDT",
+    "display_name": "LPTUSDT"
+  },
+  {
+    "symbol": "FLRUSDT",
+    "exchange": "gateio",
+    "query_symbol": "FLR_USDT",
+    "display_name": "FLRUSDT"
+  },
+  {
+    "symbol": "QTUMUSDT",
+    "exchange": "binance",
+    "query_symbol": "QTUMUSDT",
+    "display_name": "QTUMUSDT"
+  },
+  {
+    "symbol": "MINAUSDT",
+    "exchange": "binance",
+    "query_symbol": "MINAUSDT",
+    "display_name": "MINAUSDT"
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "exchange": "binance",
+    "query_symbol": "IOSTUSDT",
+    "display_name": "IOSTUSDT"
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "exchange": "binance",
+    "query_symbol": "ANKRUSDT",
+    "display_name": "ANKRUSDT"
+  },
+  {
+    "symbol": "ONEUSDT",
+    "exchange": "binance",
+    "query_symbol": "ONEUSDT",
+    "display_name": "ONEUSDT"
+  },
+  {
+    "symbol": "CELOUSDT",
+    "exchange": "binance",
+    "query_symbol": "CELOUSDT",
+    "display_name": "CELOUSDT"
+  },
+  {
+    "symbol": "ENJUSDT",
+    "exchange": "binance",
+    "query_symbol": "ENJUSDT",
+    "display_name": "ENJUSDT"
+  },
+  {
+    "symbol": "HOTUSDT",
+    "exchange": "binance",
+    "query_symbol": "HOTUSDT",
+    "display_name": "HOTUSDT"
+  },
+  {
+    "symbol": "ACHUSDT",
+    "exchange": "binance",
+    "query_symbol": "ACHUSDT",
+    "display_name": "ACHUSDT"
+  },
+  {
+    "symbol": "TRBUSDT",
+    "exchange": "binance",
+    "query_symbol": "TRBUSDT",
+    "display_name": "TRBUSDT"
+  },
+  {
+    "symbol": "DATAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "DATA_USDT",
+    "display_name": "DATAUSDT"
+  },
+  {
+    "symbol": "BTTCUSDT",
+    "exchange": "binance",
+    "query_symbol": "BTTCUSDT",
+    "display_name": "BTTUSDT"
+  },
+  {
+    "symbol": "EIGENUSDT",
+    "exchange": "binance",
+    "query_symbol": "EIGENUSDT",
+    "display_name": "EIGENUSDT"
+  },
+  {
+    "symbol": "POLUSDT",
+    "exchange": "binance",
+    "query_symbol": "POLUSDT",
+    "display_name": "POLUSDT"
+  },
+  {
+    "symbol": "KAIAUSDT",
+    "exchange": "binance",
+    "query_symbol": "KAIAUSDT",
+    "display_name": "KAIAUSDT"
+  },
+  {
+    "symbol": "MERLUSDT",
+    "exchange": "gateio",
+    "query_symbol": "MERL_USDT",
+    "display_name": "MERLUSDT"
+  },
+  {
+    "symbol": "SSVUSDT",
+    "exchange": "binance",
+    "query_symbol": "SSVUSDT",
+    "display_name": "SSVUSDT"
+  },
+  {
+    "symbol": "MASKUSDT",
+    "exchange": "binance",
+    "query_symbol": "MASKUSDT",
+    "display_name": "MASKUSDT"
+  },
+  {
+    "symbol": "FDUSDUSDT",
+    "exchange": "binance",
+    "query_symbol": "FDUSDUSDT",
+    "display_name": "FDUSDUSDT"
+  },
+  {
+    "symbol": "XNOUSDT",
+    "exchange": "binance",
+    "query_symbol": "XNOUSDT",
+    "display_name": "XNOUSDT"
+  },
+  {
+    "symbol": "SXTUSDT",
+    "exchange": "binance",
+    "query_symbol": "SXTUSDT",
+    "display_name": "SXTUSDT"
+  },
+  {
+    "symbol": "RADUSDT",
+    "exchange": "binance",
+    "query_symbol": "RADUSDT",
+    "display_name": "RADUSDT"
+  },
+  {
+    "symbol": "XPLUSUSDT",
+    "exchange": "mexc",
+    "query_symbol": "XPLUSDT",
+    "display_name": "XPLUSUSDT"
+  },
+  {
+    "symbol": "KTAUSDT",
+    "exchange": "mexc",
+    "query_symbol": "KTAUSDT",
+    "display_name": "KTAUSDT"
+  },
+  {
+    "symbol": "LSKUSDT",
+    "exchange": "binance",
+    "query_symbol": "LSKUSDT",
+    "display_name": "LSKUSDT"
+  },
+  {
+    "symbol": "CSPRUSDT",
+    "exchange": "gateio",
+    "query_symbol": "CSPR_USDT",
+    "display_name": "CSPRUSDT"
+  },
+  {
+    "symbol": "PROSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PROSPER_USDT",
+    "display_name": "PROSUSDT"
+  },
+  {
+    "symbol": "AIAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AIA_USDT",
+    "display_name": "AIAUSDT"
+  },
+  {
+    "symbol": "SAFEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "SAFE_USDT",
+    "display_name": "SAFEUSDT"
+  },
+  {
+    "symbol": "BANDUSDT",
+    "exchange": "binance",
+    "query_symbol": "BANDUSDT",
+    "display_name": "BANDUSDT"
+  },
+  {
+    "symbol": "TAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TA_USDT",
+    "display_name": "TAUSDT"
+  },
+  {
+    "symbol": "PRLUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PRL_USDT",
+    "display_name": "PRLUSDT"
+  },
+  {
+    "symbol": "KGENUSDT",
+    "exchange": "gateio",
+    "query_symbol": "KGEN_USDT",
+    "display_name": "KGENUSDT"
+  },
+  {
+    "symbol": "COAIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "COAI_USDT",
+    "display_name": "COAIUSDT"
+  },
+  {
+    "symbol": "AUKIUSDT",
+    "exchange": "mexc",
+    "query_symbol": "AUKIUSDT",
+    "display_name": "AUKIUSDT"
+  },
+  {
+    "symbol": "TOWNSUSDT",
+    "exchange": "binance",
+    "query_symbol": "TOWNSUSDT",
+    "display_name": "TOWNSUSDT"
+  },
+  {
+    "symbol": "RONINUSDT",
+    "exchange": "binance",
+    "query_symbol": "RONINUSDT",
+    "display_name": "RONUSDT"
+  },
+  {
+    "symbol": "BICOUSDT",
+    "exchange": "binance",
+    "query_symbol": "BICOUSDT",
+    "display_name": "BICOUSDT"
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "exchange": "binance",
+    "query_symbol": "ASTRUSDT",
+    "display_name": "ASTRUSDT"
+  },
+  {
+    "symbol": "ZKCUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZKCUSDT",
+    "display_name": "ZKCUSDT"
+  },
+  {
+    "symbol": "ACNUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ACNUSDT",
+    "display_name": "ACNUSDT"
+  },
+  {
+    "symbol": "PAALUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PAAL_USDT",
+    "display_name": "PAALUSDT"
+  },
+  {
+    "symbol": "AMPUSDT",
+    "exchange": "binance",
+    "query_symbol": "AMPUSDT",
+    "display_name": "AMPUSDT"
+  },
+  {
+    "symbol": "TFUELUSDT",
+    "exchange": "binance",
+    "query_symbol": "TFUELUSDT",
+    "display_name": "TFUELUSDT"
+  },
+  {
+    "symbol": "ACTUSDT",
+    "exchange": "binance",
+    "query_symbol": "ACTUSDT",
+    "display_name": "ACTUSDT"
+  },
+  {
+    "symbol": "ZANOUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ZANOUSDT",
+    "display_name": "ZANOUSDT"
+  },
+  {
+    "symbol": "MIRAUSDT",
+    "exchange": "binance",
+    "query_symbol": "MIRAUSDT",
+    "display_name": "MIRAUSDT"
+  },
+  {
+    "symbol": "OMIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "OMI_USDT",
+    "display_name": "OMIUSDT"
+  },
+  {
+    "symbol": "SOPHUSDT",
+    "exchange": "binance",
+    "query_symbol": "SOPHUSDT",
+    "display_name": "SOPHUSDT"
+  },
+  {
+    "symbol": "PROMPTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PROMPT_USDT",
+    "display_name": "PROMPTUSDT"
+  },
+  {
+    "symbol": "GWEIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "GWEI_USDT",
+    "display_name": "GWEIUSDT"
+  },
+  {
+    "symbol": "TRUTHUSDT",
+    "exchange": "mexc",
+    "query_symbol": "TRUTHUSDT",
+    "display_name": "TRUTHUSDT"
+  },
+  {
+    "symbol": "DGBUSDT",
+    "exchange": "binance",
+    "query_symbol": "DGBUSDT",
+    "display_name": "DGBUSDT"
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "exchange": "binance",
+    "query_symbol": "AGLDUSDT",
+    "display_name": "AGLDUSDT"
+  },
+  {
+    "symbol": "GLMRUSDT",
+    "exchange": "binance",
+    "query_symbol": "GLMRUSDT",
+    "display_name": "GLMRUSDT"
+  },
+  {
+    "symbol": "NOCKUSDT",
+    "exchange": "mexc",
+    "query_symbol": "NOCKUSDT",
+    "display_name": "NOCKUSDT"
+  },
+  {
+    "symbol": "TNSRUSDT",
+    "exchange": "binance",
+    "query_symbol": "TNSRUSDT",
+    "display_name": "TNSRUSDT"
+  },
+  {
+    "symbol": "PONDUSDT",
+    "exchange": "gateio",
+    "query_symbol": "POND_USDT",
+    "display_name": "PONDUSDT"
+  },
+  {
+    "symbol": "ACUUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ACU_USDT",
+    "display_name": "ACUUSDT"
+  },
+  {
+    "symbol": "XU308USDT",
+    "exchange": "gateio",
+    "query_symbol": "XU3O8_USDT",
+    "display_name": "XU308USDT"
+  },
+  {
+    "symbol": "BDXUSDT",
+    "exchange": "gateio",
+    "query_symbol": "BDX_USDT",
+    "display_name": "BDXUSDT"
+  },
+  {
+    "symbol": "GRIFFAINUSDT",
+    "exchange": "gateio",
+    "query_symbol": "GRIFFAIN_USDT",
+    "display_name": "GRIFFAINUSDT"
+  },
+  {
+    "symbol": "STABLEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "STABLE_USDT",
+    "display_name": "STABLEUSDT"
+  },
+  {
+    "symbol": "PIVXUSDT",
+    "exchange": "mexc",
+    "query_symbol": "PIVXUSDT",
+    "display_name": "PIVXUSDT"
+  },
+  {
+    "symbol": "ELSAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ELSA_USDT",
+    "display_name": "ELSAUSDT"
+  },
+  {
+    "symbol": "TLOSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TLOS_USDT",
+    "display_name": "TLOSUSDT"
+  },
+  {
+    "symbol": "AGRSUSDT",
+    "exchange": "mexc",
+    "query_symbol": "AGRSUSDT",
+    "display_name": "AGRSUSDT"
+  },
+  {
+    "symbol": "QKCUSDT",
+    "exchange": "binance",
+    "query_symbol": "QKCUSDT",
+    "display_name": "QKCUSDT"
+  },
+  {
+    "symbol": "SAPIENUSDT",
+    "exchange": "binance",
+    "query_symbol": "SAPIENUSDT",
+    "display_name": "SAPIENUSDT"
+  },
+  {
+    "symbol": "BLUAIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "BLUAI_USDT",
+    "display_name": "BLUAIUSDT"
+  },
+  {
+    "symbol": "DIAMUSDT",
+    "exchange": "gateio",
+    "query_symbol": "DIAM_USDT",
+    "display_name": "DIAMUSDT"
+  },
+  {
+    "symbol": "NILUSDT",
+    "exchange": "binance",
+    "query_symbol": "NILUSDT",
+    "display_name": "NILUSDT"
+  },
+  {
+    "symbol": "FHEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "FHE_USDT",
+    "display_name": "FHEUSDT"
+  },
+  {
+    "symbol": "PEPUSDT",
+    "exchange": "mexc",
+    "query_symbol": "PEPUSDT",
+    "display_name": "PEPUSDT"
+  },
+  {
+    "symbol": "KITEUSDT",
+    "exchange": "binance",
+    "query_symbol": "KITEUSDT",
+    "display_name": "KITEUSDT"
+  },
+  {
+    "symbol": "BMTUSDT",
+    "exchange": "binance",
+    "query_symbol": "BMTUSDT",
+    "display_name": "BMTUSDT"
+  },
+  {
+    "symbol": "PINUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PIN_USDT",
+    "display_name": "PINUSDT"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "exchange": "binance",
+    "query_symbol": "AIXBTUSDT",
+    "display_name": "AIXBTUSDT"
+  },
+  {
+    "symbol": "ALEOUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ALEO_USDT",
+    "display_name": "ALEOUSDT"
+  },
+  {
+    "symbol": "NEXAUSDT",
+    "exchange": "mexc",
+    "query_symbol": "NEXAUSDT",
+    "display_name": "NEXAUSDT"
+  },
+  {
+    "symbol": "HNTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "HNT_USDT",
+    "display_name": "HNTUSDT"
+  },
+  {
+    "symbol": "BIOUSDT",
+    "exchange": "binance",
+    "query_symbol": "BIOUSDT",
+    "display_name": "BIOUSDT"
+  },
+  {
+    "symbol": "CHRUSDT",
+    "exchange": "binance",
+    "query_symbol": "CHRUSDT",
+    "display_name": "CHRUSDT"
+  },
+  {
+    "symbol": "IDUSDT",
+    "exchange": "binance",
+    "query_symbol": "IDUSDT",
+    "display_name": "IDUSDT"
+  },
+  {
+    "symbol": "ZKPUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZKPUSDT",
+    "display_name": "ZKPUSDT"
+  },
+  {
+    "symbol": "ARKUSDT",
+    "exchange": "binance",
+    "query_symbol": "ARKUSDT",
+    "display_name": "ARKUSDT"
+  },
+  {
+    "symbol": "TAIKOUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TAIKO_USDT",
+    "display_name": "TAIKOUSDT"
+  },
+  {
+    "symbol": "NATIXUSDT",
+    "exchange": "gateio",
+    "query_symbol": "NATIX_USDT",
+    "display_name": "NATIXUSDT"
+  },
+  {
+    "symbol": "POKTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "POKT_USDT",
+    "display_name": "POKTUSDT"
+  },
+  {
+    "symbol": "GHXUSDT",
+    "exchange": "gateio",
+    "query_symbol": "GHX_USDT",
+    "display_name": "GHXUSDT"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "exchange": "binance",
+    "query_symbol": "SKLUSDT",
+    "display_name": "SKLUSDT"
+  },
+  {
+    "symbol": "XAIUSDT",
+    "exchange": "binance",
+    "query_symbol": "XAIUSDT",
+    "display_name": "XAIUSDT"
+  },
+  {
+    "symbol": "WCTUSDT",
+    "exchange": "binance",
+    "query_symbol": "WCTUSDT",
+    "display_name": "WCTUSDT"
+  },
+  {
+    "symbol": "PIEVERSEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PIEVERSE_USDT",
+    "display_name": "PIEVERSEUSDT"
+  },
+  {
+    "symbol": "ETNUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ETN_USDT",
+    "display_name": "ETNUSDT"
+  },
+  {
+    "symbol": "SHELLUSDT",
+    "exchange": "binance",
+    "query_symbol": "SHELLUSDT",
+    "display_name": "SHELLUSDT"
+  },
+  {
+    "symbol": "REQUSDT",
+    "exchange": "binance",
+    "query_symbol": "REQUSDT",
+    "display_name": "REQUSDT"
+  },
+  {
+    "symbol": "AZTECUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AZTEC_USDT",
+    "display_name": "AZTECUSDT"
+  },
+  {
+    "symbol": "ALPHUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ALPH_USDT",
+    "display_name": "ALPHUSDT"
+  },
+  {
+    "symbol": "AVAILUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AVAIL_USDT",
+    "display_name": "AVAILUSDT"
+  },
+  {
+    "symbol": "ENSOUSDT",
+    "exchange": "binance",
+    "query_symbol": "ENSOUSDT",
+    "display_name": "ENSOUSDT"
+  },
+  {
+    "symbol": "EPICUSDT",
+    "exchange": "gateio",
+    "query_symbol": "EPIC_USDT",
+    "display_name": "EPICUSDT"
+  },
+  {
+    "symbol": "KATUSDT",
+    "exchange": "binance",
+    "query_symbol": "KATUSDT",
+    "display_name": "KATUSDT"
+  },
+  {
+    "symbol": "AIUSDT",
+    "exchange": "binance",
+    "query_symbol": "AIUSDT",
+    "display_name": "AIUSDT"
+  },
+  {
+    "symbol": "OXTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "OXT_USDT",
+    "display_name": "OXTUSDT"
+  },
+  {
+    "symbol": "MGOUSDT",
+    "exchange": "gateio",
+    "query_symbol": "MGO_USDT",
+    "display_name": "MGOUSDT"
+  },
+  {
+    "symbol": "MOVEUSDT",
+    "exchange": "binance",
+    "query_symbol": "MOVEUSDT",
+    "display_name": "MOVEUSDT"
+  },
+  {
+    "symbol": "HNSUSDT",
+    "exchange": "mexc",
+    "query_symbol": "HNSUSDT",
+    "display_name": "HNSUSDT"
+  },
+  {
+    "symbol": "PROMUSDT",
+    "exchange": "binance",
+    "query_symbol": "PROMUSDT",
+    "display_name": "PROMUSDT"
+  },
+  {
+    "symbol": "CTKUSDT",
+    "exchange": "binance",
+    "query_symbol": "CTKUSDT",
+    "display_name": "CTKUSDT"
+  },
+  {
+    "symbol": "ARRRUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ARRR_USDT",
+    "display_name": "ARRRUSDT"
+  },
+  {
+    "symbol": "XVGUSDT",
+    "exchange": "binance",
+    "query_symbol": "XVGUSDT",
+    "display_name": "XVGUSDT"
+  },
+  {
+    "symbol": "GPSUSDT",
+    "exchange": "binance",
+    "query_symbol": "GPSUSDT",
+    "display_name": "GPSUSDT"
+  },
+  {
+    "symbol": "NAORISUSDT",
+    "exchange": "gateio",
+    "query_symbol": "NAORIS_USDT",
+    "display_name": "NAORISUSDT"
+  },
+  {
+    "symbol": "SOMIUSDT",
+    "exchange": "binance",
+    "query_symbol": "SOMIUSDT",
+    "display_name": "SOMIUSDT"
+  },
+  {
+    "symbol": "PPCUSDT",
+    "exchange": "mexc",
+    "query_symbol": "PPCUSDT",
+    "display_name": "PPCUSDT"
+  },
+  {
+    "symbol": "RAREUSDT",
+    "exchange": "binance",
+    "query_symbol": "RAREUSDT",
+    "display_name": "RAREUSDT"
+  },
+  {
+    "symbol": "FORTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "FORT_USDT",
+    "display_name": "FORTUSDT"
+  },
+  {
+    "symbol": "SERVUSDT",
+    "exchange": "mexc",
+    "query_symbol": "SERVUSDT",
+    "display_name": "SERVUSDT"
+  },
+  {
+    "symbol": "IQUSDT",
+    "exchange": "binance",
+    "query_symbol": "IQUSDT",
+    "display_name": "IQUSDT"
+  },
+  {
+    "symbol": "GRAMUSDT",
+    "exchange": "binance",
+    "query_symbol": "GRAMUSDT",
+    "display_name": "GRAMUSDT"
+  },
+  {
+    "symbol": "GASUSDT",
+    "exchange": "binance",
+    "query_symbol": "GASUSDT",
+    "display_name": "GASUSDT"
+  },
+  {
+    "symbol": "SKRUSDT",
+    "exchange": "gateio",
+    "query_symbol": "SKR_USDT",
+    "display_name": "SKRUSDT"
+  },
+  {
+    "symbol": "FIDAUSDT",
+    "exchange": "binance",
+    "query_symbol": "FIDAUSDT",
+    "display_name": "FIDAUSDT"
+  },
+  {
+    "symbol": "TOKENUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TOKEN_USDT",
+    "display_name": "TOKENUSDT"
+  },
+  {
+    "symbol": "NEWTUSDT",
+    "exchange": "binance",
+    "query_symbol": "NEWTUSDT",
+    "display_name": "NEWTUSDT"
+  },
+  {
+    "symbol": "AKEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AKE_USDT",
+    "display_name": "AKEUSDT"
+  },
+  {
+    "symbol": "EDGEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "EDGE_USDT",
+    "display_name": "EDGEUSDT"
+  },
+  {
+    "symbol": "EWTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "NEWT_USDT",
+    "display_name": "EWTUSDT"
+  },
+  {
+    "symbol": "VTHOUSDT",
+    "exchange": "binance",
+    "query_symbol": "VTHOUSDT",
+    "display_name": "VTHOUSDT"
+  },
+  {
+    "symbol": "OMGUSDT",
+    "exchange": "mexc",
+    "query_symbol": "OMGUSDT",
+    "display_name": "OMGUSDT"
+  },
+  {
+    "symbol": "CYSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "CYS_USDT",
+    "display_name": "CYSUSDT"
+  },
+  {
+    "symbol": "MOVRUSDT",
+    "exchange": "binance",
+    "query_symbol": "MOVRUSDT",
+    "display_name": "MOVRUSDT"
+  },
+  {
+    "symbol": "GAMEUSDT",
+    "exchange": "mexc",
+    "query_symbol": "GAMEUSDT",
+    "display_name": "GAMEUSDT"
+  },
+  {
+    "symbol": "ONGUSDT",
+    "exchange": "binance",
+    "query_symbol": "ONGUSDT",
+    "display_name": "ONGUSDT"
+  },
+  {
+    "symbol": "BREVUSDT",
+    "exchange": "binance",
+    "query_symbol": "BREVUSDT",
+    "display_name": "BREVUSDT"
+  },
+  {
+    "symbol": "MONUSDT",
+    "exchange": "gateio",
+    "query_symbol": "MON_USDT",
+    "display_name": "MONUSDT"
+  },
+  {
+    "symbol": "LIGHTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "LIGHT_USDT",
+    "display_name": "LIGHTUSDT"
+  },
+  {
+    "symbol": "TAGUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TAG_USDT",
+    "display_name": "TAGUSDT"
+  },
+  {
+    "symbol": "SRXUSDT",
+    "exchange": "mexc",
+    "query_symbol": "SRXUSDT",
+    "display_name": "SRXUSDT"
+  },
+  {
+    "symbol": "XNYUSDT",
+    "exchange": "gateio",
+    "query_symbol": "XNY_USDT",
+    "display_name": "XNYUSDT"
+  },
+  {
+    "symbol": "PEAQUSDT",
+    "exchange": "gateio",
+    "query_symbol": "PEAQ_USDT",
+    "display_name": "PEAQUSDT"
+  },
+  {
+    "symbol": "CELRUSDT",
+    "exchange": "binance",
+    "query_symbol": "CELRUSDT",
+    "display_name": "CELRUSDT"
+  },
+  {
+    "symbol": "API3USDT",
+    "exchange": "binance",
+    "query_symbol": "API3USDT",
+    "display_name": "API3USDT"
+  },
+  {
+    "symbol": "INITUSDT",
+    "exchange": "binance",
+    "query_symbol": "INITUSDT",
+    "display_name": "INITUSDT"
+  },
+  {
+    "symbol": "SAHARAUSDT",
+    "exchange": "binance",
+    "query_symbol": "SAHARAUSDT",
+    "display_name": "SAHARAUSDT"
+  },
+  {
+    "symbol": "WALUSDT",
+    "exchange": "binance",
+    "query_symbol": "WALUSDT",
+    "display_name": "WALUSDT"
+  },
+  {
+    "symbol": "BILLUSDT",
+    "exchange": "mexc",
+    "query_symbol": "BILLUSDT",
+    "display_name": "BILLUSDT"
+  },
+  {
+    "symbol": "FIROUSDT",
+    "exchange": "mexc",
+    "query_symbol": "FIROUSDT",
+    "display_name": "FIROUSDT"
+  },
+  {
+    "symbol": "ANYONEUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ANYONEUSDT",
+    "display_name": "ANYONEUSDT"
+  },
+  {
+    "symbol": "SUSDT",
+    "exchange": "binance",
+    "query_symbol": "SUSDT",
+    "display_name": "SUSDT"
+  },
+  {
+    "symbol": "BLESSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "BLESS_USDT",
+    "display_name": "BLESSUSDT"
+  },
+  {
+    "symbol": "ACEUSDT",
+    "exchange": "binance",
+    "query_symbol": "ACEUSDT",
+    "display_name": "ACEUSDT"
+  },
+  {
+    "symbol": "LAUSDT",
+    "exchange": "binance",
+    "query_symbol": "LAUSDT",
+    "display_name": "LAUSDT"
+  },
+  {
+    "symbol": "DIAUSDT",
+    "exchange": "binance",
+    "query_symbol": "DIAUSDT",
+    "display_name": "DIAUSDT"
+  },
+  {
+    "symbol": "TAKEUSDT",
+    "exchange": "gateio",
+    "query_symbol": "TAKE_USDT",
+    "display_name": "TAKEUSDT"
+  },
+  {
+    "symbol": "CGPTUSDT",
+    "exchange": "binance",
+    "query_symbol": "CGPTUSDT",
+    "display_name": "CGPTUSDT"
+  },
+  {
+    "symbol": "GTAIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "GTAI_USDT",
+    "display_name": "GTAIUSDT"
+  },
+  {
+    "symbol": "GTCUSDT",
+    "exchange": "binance",
+    "query_symbol": "GTCUSDT",
+    "display_name": "GTCUSDT"
+  },
+  {
+    "symbol": "VVVUSDT",
+    "exchange": "gateio",
+    "query_symbol": "VVV_USDT",
+    "display_name": "VVVUSDT"
+  },
+  {
+    "symbol": "GRASSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "GRASS_USDT",
+    "display_name": "GRASSUSDT"
+  },
+  {
+    "symbol": "ZAMAUSDT",
+    "exchange": "binance",
+    "query_symbol": "ZAMAUSDT",
+    "display_name": "ZAMAUSDT"
+  },
+  {
+    "symbol": "HYPERUSDT",
+    "exchange": "binance",
+    "query_symbol": "HYPERUSDT",
+    "display_name": "HYPERUSDT"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "exchange": "binance",
+    "query_symbol": "COOKIEUSDT",
+    "display_name": "COOKIEUSDT"
+  },
+  {
+    "symbol": "ASMUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ASM_USDT",
+    "display_name": "ASMUSDT"
+  },
+  {
+    "symbol": "ORAIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ORAI_USDT",
+    "display_name": "ORAIUSDT"
+  },
+  {
+    "symbol": "PAYAIUSDT",
+    "exchange": "mexc",
+    "query_symbol": "PAYAIUSDT",
+    "display_name": "PAYAIUSDT"
+  },
+  {
+    "symbol": "RESOLVUSDT",
+    "exchange": "binance",
+    "query_symbol": "RESOLVUSDT",
+    "display_name": "RESOLVUSDT"
+  },
+  {
+    "symbol": "ALPINEUSDT",
+    "exchange": "binance",
+    "query_symbol": "ALPINEUSDT",
+    "display_name": "ALPINEUSDT"
+  },
+  {
+    "symbol": "FUELUSDT",
+    "exchange": "gateio",
+    "query_symbol": "FUEL_USDT",
+    "display_name": "FUELUSDT"
+  },
+  {
+    "symbol": "LYXUSDT",
+    "exchange": "gateio",
+    "query_symbol": "LYX_USDT",
+    "display_name": "LYXUSDT"
+  },
+  {
+    "symbol": "QUAIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "QUAI_USDT",
+    "display_name": "QUAIUSDT"
+  },
+  {
+    "symbol": "AVAUSDT",
+    "exchange": "binance",
+    "query_symbol": "AVAUSDT",
+    "display_name": "AVAUSDT"
+  },
+  {
+    "symbol": "ALTUSDT",
+    "exchange": "binance",
+    "query_symbol": "ALTUSDT",
+    "display_name": "ALTUSDT"
+  },
+  {
+    "symbol": "WINUSDT",
+    "exchange": "binance",
+    "query_symbol": "WINUSDT",
+    "display_name": "WINUSDT"
+  },
+  {
+    "symbol": "ELFUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ELF_USDT",
+    "display_name": "ELFUSDT"
+  },
+  {
+    "symbol": "ABUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AB_USDT",
+    "display_name": "ABUSDT"
+  },
+  {
+    "symbol": "CCDUSDT",
+    "exchange": "gateio",
+    "query_symbol": "CCD_USDT",
+    "display_name": "CCDUSDT"
+  },
+  {
+    "symbol": "IOUSDT",
+    "exchange": "binance",
+    "query_symbol": "IOUSDT",
+    "display_name": "IOUSDT"
+  },
+  {
+    "symbol": "ARXUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ARXUSDT",
+    "display_name": "ARXUSDT"
+  },
+  {
+    "symbol": "MEGAUSDT",
+    "exchange": "binance",
+    "query_symbol": "MEGAUSDT",
+    "display_name": "MEGAUSDT"
+  },
+  {
+    "symbol": "PARTIUSDT",
+    "exchange": "binance",
+    "query_symbol": "PARTIUSDT",
+    "display_name": "PARTIUSDT"
+  },
+  {
+    "symbol": "ESPUSDT",
+    "exchange": "binance",
+    "query_symbol": "ESPUSDT",
+    "display_name": "ESPUSDT"
+  },
+  {
+    "symbol": "SENTUSDT",
+    "exchange": "binance",
+    "query_symbol": "SENTUSDT",
+    "display_name": "SENTUSDT"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "exchange": "binance",
+    "query_symbol": "KAITOUSDT",
+    "display_name": "KAITOUSDT"
+  },
+  {
+    "symbol": "DEXEUSDT",
+    "exchange": "binance",
+    "query_symbol": "DEXEUSDT",
+    "display_name": "DEXEUSDT"
+  },
+  {
+    "symbol": "ONUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ON_USDT",
+    "display_name": "ONUSDT"
+  },
+  {
+    "symbol": "NFTUSDT",
+    "exchange": "gateio",
+    "query_symbol": "NFT_USDT",
+    "display_name": "NFTUSDT"
+  },
+  {
+    "symbol": "AINUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AIN_USDT",
+    "display_name": "AINUSDT"
+  },
+  {
+    "symbol": "USUSDT",
+    "exchange": "gateio",
+    "query_symbol": "US_USDT",
+    "display_name": "USUSDT"
+  },
+  {
+    "symbol": "DAGUSDT",
+    "exchange": "gateio",
+    "query_symbol": "DAG_USDT",
+    "display_name": "DAGUSDT"
+  },
+  {
+    "symbol": "PLAYUSDT",
+    "exchange": "mexc",
+    "query_symbol": "PLAYUSDT",
+    "display_name": "PLAYUSDT"
+  },
+  {
+    "symbol": "STORJUSDT",
+    "exchange": "gateio",
+    "query_symbol": "STORJ_USDT",
+    "display_name": "STORJUSDT"
+  },
+  {
+    "symbol": "BOBAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "BOBA_USDT",
+    "display_name": "BOBAUSDT"
+  },
+  {
+    "symbol": "ABELUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ABELUSDT",
+    "display_name": "ABELUSDT"
+  },
+  {
+    "symbol": "RIOUSDT",
+    "exchange": "gateio",
+    "query_symbol": "RION_USDT",
+    "display_name": "RIOUSDT"
+  },
+  {
+    "symbol": "ALIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ALI_USDT",
+    "display_name": "ALIUSDT"
+  },
+  {
+    "symbol": "AGIUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AGI_USDT",
+    "display_name": "AGIUSDT"
+  },
+  {
+    "symbol": "EDUUSDT",
+    "exchange": "binance",
+    "query_symbol": "EDUUSDT",
+    "display_name": "EDUUSDT"
+  },
+  {
+    "symbol": "AURORAUSDT",
+    "exchange": "gateio",
+    "query_symbol": "AURORA_USDT",
+    "display_name": "AURORAUSDT"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "exchange": "binance",
+    "query_symbol": "PHAUSDT",
+    "display_name": "PHAUSDT"
+  },
+  {
+    "symbol": "SCUSDT",
+    "exchange": "binance",
+    "query_symbol": "SCUSDT",
+    "display_name": "SCUSDT"
+  },
+  {
+    "symbol": "ADIUSDT",
+    "exchange": "mexc",
+    "query_symbol": "ADIUSDT",
+    "display_name": "ADIUSDT"
+  },
+  {
+    "symbol": "AGTUSDT",
+    "exchange": "mexc",
+    "query_symbol": "AGTUSDT",
+    "display_name": "AGTUSDT"
+  },
+  {
+    "symbol": "UBUSDT",
+    "exchange": "gateio",
+    "query_symbol": "UB_USDT",
+    "display_name": "UBUSDT"
+  },
+  {
+    "symbol": "ZBCNUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ZBCN_USDT",
+    "display_name": "ZBCNUSDT"
+  },
+  {
+    "symbol": "NOSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "NOS_USDT",
+    "display_name": "NOSUSDT"
+  },
+  {
+    "symbol": "OLASUSDT",
+    "exchange": "mexc",
+    "query_symbol": "OLASUSDT",
+    "display_name": "OLASUSDT"
+  },
+  {
+    "symbol": "SWARMSUSDT",
+    "exchange": "gateio",
+    "query_symbol": "SWARMS_USDT",
+    "display_name": "SWARMSUSDT"
+  },
+  {
+    "symbol": "ZIGUSDT",
+    "exchange": "gateio",
+    "query_symbol": "ZIG_USDT",
+    "display_name": "ZIGUSDT"
+  },
+  {
+    "symbol": "CHEXUSDT",
+    "exchange": "gateio",
+    "query_symbol": "CHEX_USDT",
+    "display_name": "CHEXUSDT"
+  },
+  {
+    "symbol": "QUBICUSDT",
+    "exchange": "gateio",
+    "query_symbol": "QUBIC_USDT",
+    "display_name": "QUBICUSDT"
+  },
+  {
+    "symbol": "LITUSDT",
+    "exchange": "gateio",
+    "query_symbol": "LIT_USDT",
+    "display_name": "LITUSDT"
+  },
+  {
+    "symbol": "LUMIAUSDT",
+    "exchange": "binance",
+    "query_symbol": "LUMIAUSDT",
+    "display_name": "LUMIAUSDT"
+  },
+  {
+    "symbol": "UPCUSDT",
+    "exchange": "mexc",
+    "query_symbol": "UPCUSDT",
+    "display_name": "UPCUSDT"
+  },
+  {
+    "symbol": "RAILUSDT",
+    "exchange": "mexc",
+    "query_symbol": "RAILUSDT",
+    "display_name": "RAILUSDT"
+  }
+]
